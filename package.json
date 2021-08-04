@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "Node-Rest-API",
+  "main": "package.js",
+  "scripts": {
+    "Start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavapolBanlai/Node-Rest-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavapolBanlai/Node-Rest-API/issues"
+  },
+  "homepage": "https://github.com/NavapolBanlai/Node-Rest-API#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
